@@ -14,6 +14,6 @@ Portfolio for Jose Eduardo Duran
 
 ## Hecho por:
 
-###Jose Eduardo Duran
+### Jose Eduardo Duran
 
 ### Linkedin: https://www.linkedin.com/in/josedurandr/
